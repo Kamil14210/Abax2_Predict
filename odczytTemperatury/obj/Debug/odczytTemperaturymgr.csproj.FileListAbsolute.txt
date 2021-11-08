@@ -1,0 +1,235 @@
+C:\Users\kamil\source\repos\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe.config
+C:\Users\kamil\source\repos\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe
+C:\Users\kamil\source\repos\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.pdb
+C:\Users\kamil\source\repos\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\MetroFramework.dll
+C:\Users\kamil\source\repos\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kamil\source\repos\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Properties.Resources.resources
+C:\Users\kamil\source\repos\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.GenerateResource.cache
+C:\Users\kamil\source\repos\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CopyComplete
+C:\Users\kamil\source\repos\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.exe
+C:\Users\kamil\source\repos\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.pdb
+C:\Users\kamil\source\repos\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Form1.resources
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe.config
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.pdb
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\EntityFramework.dll
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\MetroFramework.dll
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\EntityFramework.xml
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Form1.resources
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Properties.Resources.resources
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.GenerateResource.cache
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CopyComplete
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.exe
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.pdb
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csprojAssemblyReference.cache
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe.config
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.pdb
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\EntityFramework.dll
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\MetroFramework.dll
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.dll
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\EntityFramework.xml
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.xml
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csprojAssemblyReference.cache
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Form1.resources
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Properties.Resources.resources
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.GenerateResource.cache
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CopyComplete
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.exe
+C:\Users\kamil\Desktop\Nowe rozwiązania\odczytTemperaturymgr\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.pdb
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe.config
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.pdb
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\EntityFramework.dll
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\MetroFramework.dll
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\EntityFramework.xml
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Form1.resources
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Properties.Resources.resources
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.GenerateResource.cache
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CopyComplete
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.exe
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.pdb
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kamil Knap\Desktop\odczytTemperaturymgr+api\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csprojAssemblyReference.cache
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe.config
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.pdb
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\EntityFramework.dll
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\MetroFramework.dll
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\EntityFramework.xml
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csprojAssemblyReference.cache
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Form1.resources
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Properties.Resources.resources
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.GenerateResource.cache
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CopyComplete
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.exe
+C:\Users\Kamil Knap\Desktop\STUDY\odczytTemperaturymgr+api\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.pdb
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe.config
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.pdb
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\bin\Debug\EntityFramework.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\bin\Debug\MetroFramework.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\bin\Debug\EntityFramework.xml
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.xml
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Form1.resources
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Properties.Resources.resources
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.GenerateResource.cache
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CopyComplete
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.exe
+C:\Users\kamil\Desktop\odczytTemperaturymgr+api - działają 2 serie danych\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.pdb
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe.config
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.pdb
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\bin\Debug\EntityFramework.dll
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\bin\Debug\MetroFramework.dll
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.dll
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\bin\Debug\EntityFramework.xml
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.xml
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Form1.resources
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Properties.Resources.resources
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.GenerateResource.cache
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CopyComplete
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.exe
+C:\Users\kamil\Desktop\Backup_31_08 (najnowsze)odczytTemperaturymgr+api - działają 2 serie danych — kopia\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.pdb
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe.config
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.pdb
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\EntityFramework.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\MetroFramework.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\EntityFramework.xml
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.xml
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Form1.resources
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Properties.Resources.resources
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.GenerateResource.cache
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CopyComplete
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.exe
+C:\Users\kamil\Desktop\odczytTemperaturymgr - działają 2 serie danych, tabela 2 mcs po przecinku\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.pdb
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe.config
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.pdb
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\EntityFramework.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\MetroFramework.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\EntityFramework.xml
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.xml
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Form1.resources
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Properties.Resources.resources
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.GenerateResource.cache
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CopyComplete
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.exe
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.pdb
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe.config
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.pdb
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\bin\Debug\EntityFramework.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\bin\Debug\MetroFramework.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\bin\Debug\EntityFramework.xml
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.xml
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Form1.resources
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Properties.Resources.resources
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.GenerateResource.cache
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CopyComplete
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.exe
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.pdb
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku — kopia\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\odczytTemperaturymgr działają 2 serie danych tabela 2 mcs po przecinku\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.AssemblyReference.cache
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe.config
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.exe
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\bin\Debug\odczytTemperaturymgr.pdb
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\bin\Debug\EntityFramework.dll
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\bin\Debug\MetroFramework.dll
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\bin\Debug\MetroFramework.Fonts.dll
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\bin\Debug\Newtonsoft.Json.dll
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.dll
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\bin\Debug\EntityFramework.xml
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\bin\Debug\Newtonsoft.Json.xml
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\bin\Debug\System.Data.SQLite.xml
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.AssemblyReference.cache
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Form1.resources
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.Properties.Resources.resources
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.GenerateResource.cache
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.csproj.CoreCompileInputs.cache
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.exe
+C:\Moje\mgr\mgr ABAX2 Predict\mgr ABAX2 Predict\odczytTemperaturymgr\obj\Debug\odczytTemperaturymgr.pdb
